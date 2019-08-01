@@ -10,7 +10,6 @@ If you want to make a class in python abstract there are a couple of steps.
 2. mark at least one of the methods as @abstract
 
 
-
 {% highlight python %}
 #! /usr/bin/env python3
 
