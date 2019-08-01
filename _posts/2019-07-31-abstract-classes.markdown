@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Creating Abstract classes in python"
-date:   2019-07-31 19:00:41 +0100
 categories: python
 ---
 
