@@ -4,7 +4,6 @@
 def test(name: str):
     print(name)
 
-
 test("anthony")
 
 
