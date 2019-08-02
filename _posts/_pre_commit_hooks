@@ -1,0 +1,11 @@
+Need to write one of these in python and check these:
+
+Iterate the python files
+https://medium.com/the-andela-way/git-hooks-beautifully-automate-tasks-stages-bfb29f42fea1
+(under Creating a Pre-commit hook)
+
+run black on them
+https://black.readthedocs.io/en/stable/index.html
+
+run mypy on them
+https://mypy.readthedocs.io/en/latest/
