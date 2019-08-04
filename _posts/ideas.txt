@@ -1,0 +1,4 @@
+atom tricks:
+alt-command to show defn
+
+debugging in jupyter notebook
