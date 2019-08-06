@@ -5,7 +5,8 @@ categories: tools
 ---
 
 
-The atom editor is great for pretty much any text editing work that you want to do. It has a huge range of options and great documentation, but just wanted to share a few of my favourite features that make development easier.
+The atom editor is great for pretty much any text editing work that you want to do. It has a huge range of options and great [documentation](https://flight-manual.atom.io/), I just wanted to share a few of my favourite features that make my work easier. I will add to this periodically as I learn more.
+
 
 ## Most useful commands in atom
 1. Command Palette `cmd+shift+P`
