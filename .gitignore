@@ -4,3 +4,4 @@ _site
 .bundle/
 vendor/
 code/.mypy_cache/
+code/mnist/data/
