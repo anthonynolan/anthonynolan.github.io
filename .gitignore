@@ -5,3 +5,4 @@ _site
 vendor/
 code/.mypy_cache/
 code/mnist/data/
+code/mnist/*.ipynb
