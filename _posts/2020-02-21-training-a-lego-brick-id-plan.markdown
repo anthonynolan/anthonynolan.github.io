@@ -12,7 +12,7 @@ And I am going to get the pictures of dogs and cats [here](https://www.kaggle.co
 
 As this project is based on transfer learning I probably don't need as many images as are in the kaggle repo - a few hundred of each will suffice.
 
-The make_image_classifier tool is part of tensorflow-hub project. You can find it on pypy [here](https://pypi.org/project/tensorflow-hub/)
+The make_image_classifier tool is part of the tensorflow-hub project. You can find it on pypy [here](https://pypi.org/project/tensorflow-hub/)
 
 To check if you already have the correct version of hub use `pip freeze`
 
