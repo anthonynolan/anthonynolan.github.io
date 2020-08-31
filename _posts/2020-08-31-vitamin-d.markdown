@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Vitamin D in Irish diets"
+date: "2020-08-31"
+---
+
+[This](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/) is an excellent article about Vitamin D. Aimed at professionals it provides a high level of detail.
+
+[This](https://irp-cdn.multiscreensite.com/46a7ad27/files/uploaded/The%20National%20Adult%20Nutrition%20Survey%20Summary%20Report%20March%202011.pdf) is a report on nutrition in Ireland. It contains details of typical dietary vitamin d intake. 
